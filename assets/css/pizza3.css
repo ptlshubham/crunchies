@@ -2177,8 +2177,9 @@ input[type="text"]:focus,
 input[type="url"]:focus,
 select:focus,
 textarea:focus {
-    color: #8ccdd9;
-    background-color: rgba(75, 34, 40, 1) !important;
+    color: #ffffff;
+    font-weight: bolder;
+    background-color: #8ccdd9 !important;
     border-color: #fff;
 }
 
