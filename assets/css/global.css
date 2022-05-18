@@ -499,6 +499,7 @@ a.button.button_right .button_icon, a.tp-button.button_right .button_icon {
 
 a.button .button_label {
 	padding: 11px 20px;
+	background-color: rgb(140, 205, 217);
 }
 a.button .button_icon {
 	padding: 11px 13px;
