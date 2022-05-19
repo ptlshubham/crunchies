@@ -1379,8 +1379,8 @@ h3 a:hover {
 }
 
 .contactplate img {
-    width: 191px;
-    height: 191px;
+    width: 90px;
+    height: 90px;
     filter: invert(24%) sepia(5%) saturate(141%) hue-rotate(201deg) brightness(89%) contrast(87%);
 }
 
@@ -1396,8 +1396,8 @@ h3 a:hover {
 
 .contactplate:hover img {
     animation: 0.3s;
-    width: 195px;
-    height: 195px;
+    width: 120px;
+    height: 120px;
     filter: invert(61%) sepia(26%) saturate(918%) hue-rotate(142deg) brightness(93%) contrast(89%);
 }
 
