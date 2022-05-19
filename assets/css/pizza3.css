@@ -1375,7 +1375,7 @@ h2 a:hover {
 h3,
 h3 a,
 h3 a:hover {
-    color: #3a3a3b;
+    color: #66bccc;
 }
 
 h4,
@@ -1395,7 +1395,7 @@ h6,
 h6 a,
 h6 a:hover,
 a.content_link .title {
-    color: #d8b67e;
+    color: #66bccc;
 }
 
 .dropcap,
