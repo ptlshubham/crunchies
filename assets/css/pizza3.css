@@ -1810,7 +1810,7 @@ a.mfn-link-6:before {
 
 #Footer,
 #Footer .widget_recent_entries ul li a {
-    color: #9b8d81;
+    color: #b6ada5;
 }
 
 #Footer a {
@@ -1839,7 +1839,7 @@ a.mfn-link-6:before {
 #Footer h6,
 #Footer h6 a,
 #Footer h6 a:hover {
-    color: #3a3a3b;
+    color: white;
 }
 
 / #Footer .themecolor,
@@ -3010,19 +3010,19 @@ textarea,
     padding-left: 40px;
 }
 
-@media only screen and min-width: 768px and max-width: 959px {
+@media only screen and (min-width: 768px) and (max-width: 959px) {
     .the-icons.span3 {
         width: 33.333%;
     }
 }
 
-@media only screen and min-width: 480px and max-width: 767px {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
     .the-icons.span3 {
         width: 50%;
     }
 }
 
-@media only screen and max-width: 479px {
+@media only screen and (max-width: 479px) {
     .the-icons.span3 {
         width: 100%;
     }

@@ -3461,6 +3461,7 @@ body:not(.with_aside) .portfolio_group.list .portfolio-item .portfolio-item-fw-w
 }
 #Footer .widgets_wrapper {
 	padding: 15px 0;
+	background-color: rgb(58, 58, 59);
 }
 #Footer .widgets_wrapper .column {
 	margin-bottom: 0;
