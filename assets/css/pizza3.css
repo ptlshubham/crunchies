@@ -1248,7 +1248,7 @@ ul.timeline_items,
 .style-simple #Filters .filters_wrapper ul li a:hover,
 .style-simple #Filters .filters_wrapper ul li.current-cat a,
 .style-simple .quick_fact .title {
-    color: #8ccdd9;
+    color: #FFFFFF;
 }
 
 .themebg,
@@ -1887,7 +1887,7 @@ a.mfn-link-6:before {
     color: white;
 }
 
-/ #Footer .themecolor,
+ #Footer .themecolor,
 #Footer .widget_meta ul,
 #Footer .widget_pages ul,
 #Footer .widget_rss ul,
