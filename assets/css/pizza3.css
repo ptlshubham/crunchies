@@ -1407,6 +1407,22 @@ h3 a:hover {
     text-decoration: none;
 }
 
+.abplate p{
+    font-family: "Yeseva One", Arial, Tahoma, sans-serif;
+    font-size: 25px;
+    line-height: 29px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    margin-bottom: 15px;
+    color: #9b8d81;
+}
+
+.abplate img{
+    width: 90px;
+    height: 90px;
+    filter: invert(24%) sepia(5%) saturate(141%) hue-rotate(201deg) brightness(89%) contrast(87%);
+}
+
 .whatsapp {
     height: 90%;
     width: 100%;
