@@ -1219,7 +1219,10 @@ ul.timeline_items,
     fill: #9b8d81;
 }
 
-.themecolor,
+.themecolor{
+    color: rgb(58, 58, 59);
+}
+
 .opening_hours .opening_hours_wrapper li span,
 .fancy_heading_icon .icon_top,
 .fancy_heading_arrows .icon-right-dir,
@@ -1440,7 +1443,7 @@ h6,
 h6 a,
 h6 a:hover,
 a.content_link .title {
-    color: #f9fafa;
+    color: rgb(58, 58, 59);
 }
 
 .dropcap,
@@ -2031,7 +2034,8 @@ blockquote a:hover {
 }
 
 .image_frame .image_wrapper .image_links a {
-    color: #fff;
+    color: #FFFFFF;
+    background-color: #8ccdd9;
 }
 
 .image_frame .image_wrapper .image_links a:hover {
@@ -2394,6 +2398,7 @@ h3 {
     line-height: 29px;
     font-weight: 400;
     letter-spacing: 0px;
+    padding-bottom: 15px;
 }
 
 h4 {
