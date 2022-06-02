@@ -2971,7 +2971,7 @@ a:hover.tp-button.lightgrey {
 .chart_box p {
     margin-bottom: 0
 }
-
+#more {display: none;}
 
 /* Dropcaps -------------------------------------------------------------------------- */
 
